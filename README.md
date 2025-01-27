@@ -36,7 +36,8 @@ If applicable, add screenshots to help explain your issue
 **Additional context**
 Add any other context about the problem here.
 
-📜 Modpack Policy & Credit
+## 📜 Modpack Policy & Credit
 CEconomy: Next Gen is modpack-friendly! You’re welcome to include it in any public or private modpack, but please ensure proper credit is given and do not claim it as your own work.
+
 All credit goes to Calemi for his original source code.
 
